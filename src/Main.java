@@ -75,7 +75,7 @@ public class Main {
         } else if (poezd + step == poezd) {
             System.out.println(" Cидячие места ");
         } else {
-            System.out.println(" Мест нет");
+            System.out.println(" Мест нет ");
         }
 
         System.out.println("задача7");
